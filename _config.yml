@@ -16,8 +16,8 @@ defaults:
       layout: "post"
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
+  - name: Backend Development in Java Using Spring Framework
+    web_url: https://github.com/topics/spring
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
@@ -25,3 +25,10 @@ topics:
   - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+education:
+  - name: University of Mauritius
+    course_name: BSC(Hons) Computer Science
+    
+  - name: Sir Leckraz Teelock SSS
+    course_name: Higher School Certificate
